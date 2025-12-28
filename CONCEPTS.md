@@ -296,18 +296,6 @@ Steps:
 3. Database is connected.
 4. Server is running and accessible.
 
----
-
-## 🎯 Why I Created This Repo
-
-* To **understand backend clearly**.
-* To **revise concepts quickly**.
-* To **build strong fundamentals**.
-* To **avoid confusion in the future**.
-
-This repo is my **backend notebook** 📝.
-
----
 
 ## 🧩 Future Topics to Add
 
